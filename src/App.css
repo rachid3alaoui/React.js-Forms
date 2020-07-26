@@ -28,6 +28,15 @@
   color: #61dafb;
 }
 
+.car {
+  margin-top: 30px;
+  width: 250px;
+  height: 200px;
+  border: 1px solid black;
+  padding: 20px;
+  background: #f4f4f4;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
